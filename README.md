@@ -1,10 +1,12 @@
-# wallet_ui
-
-A new Flutter project.
-
-## Getting Started
+Hello there
 
 This project is a starting point for a Flutter application.
+
+It is simple UI.
+
+No any states.
+
+First my app.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,5 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# wallet_ui_only
-# wallet_ui_only
+
+Thanks
+
+Ikboljon
